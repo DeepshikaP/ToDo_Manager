@@ -29,7 +29,7 @@
 
 ## 📽️ Demo
 
-🎥 [Click here to watch the demo video](assets/ToDoManager.png).  
+🎥 [Click here to watch the demo video](assets/ToDoManager.mp4).  
 
 ---
 
