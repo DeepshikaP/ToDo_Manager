@@ -29,7 +29,7 @@
 
 ## 📽️ Demo
 
-🎥 [Click here to watch the demo video](assets/ToDoManager.mp4).  
+🎥 [Click here to watch the demo video](assets/ToDoManager.mp4).  link (https://todomanag.netlify.app/)  
 
 ---
 
